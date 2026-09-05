@@ -1,6 +1,6 @@
-## Tournament Scoring System Program
+# Tournament Scoring System Program
 
-This program is a simple tournament scoring system program which was created for a programming assignment, which was integral to secure a Distinction grade for the assignment.
+This program is a simple tournament scoring system program which was created for a programming assignment.
 
 It was written in Python and it uses a Tkinter graphical user interface (GUI). It only includes what was required for the assignment, nothing else - it may not be very intuitive or user-friendly and it certainly lacks some features and improvements that I would have liked to have added, but due to time constraints and limits to my own ability, this was not possible.
 
@@ -8,17 +8,15 @@ I am releasing this program publicly, open source, to allow anyone who may very 
 
 > ⚠️ <b>I do not recommend copy-and-pasting this program's code into your own program if you are doing an assignment as you may be flagged for plagarism.</b>
 
----
-
-### Running of the program
+## Running of the program
 During the development of the program, I tested and ran the program through the Python IDLE environment - it seems to only function through there, I cannot verify if any other methods of running the program will work or function as intended.
 
-### Program updates
+## Program updates
 This program will not recieve any additional updates, changes or bug fixes from its release, as I have no intentions to develop this program further. I will not be accepting any further contributions, including pull requests.
 
-### Program licensing
+## Program licensing
 This program is licensed under the [MIT license](LICENSE).
 
----
+<br>
 
 © Leibyte
