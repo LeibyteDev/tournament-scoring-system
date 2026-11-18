@@ -6,7 +6,8 @@ It was written in Python and it uses a Tkinter graphical user interface (GUI). I
 
 I am releasing this program publicly, open source, to allow anyone who may very well need to do the same thing as me for an assignment to reference from and use some of the code.
 
-> ⚠️ <b>I do not recommend copy-and-pasting this program's code into your own program if you are doing an assignment as you may be flagged for plagarism.</b>
+>[!WARNING]
+> <b>I do not recommend copy-and-pasting this program's code into your own program if you are doing an assignment as you may be flagged for plagarism.</b>
 
 ## Running of the program
 During the development of the program, I tested and ran the program through the Python IDLE environment - it seems to only function through there, I cannot verify if any other methods of running the program will work or function as intended.
@@ -15,7 +16,7 @@ During the development of the program, I tested and ran the program through the 
 This program will not recieve any additional updates, changes or bug fixes from its release, as I have no intentions to develop this program further. I will not be accepting any further contributions, including pull requests.
 
 ## Program licensing
-This program is licensed under the [MIT license](LICENSE).
+This program and its code is licensed under the [MIT license](LICENSE).
 
 <br>
 
